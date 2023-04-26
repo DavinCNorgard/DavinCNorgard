@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # My Stats
 <p align="left">
-   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=DavinCNorgard&theme=github_dark&show_icons=true&count_private=true&disable_animations=true&include_all_commits=true" />
+   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=DavinCNorgard&theme=github_dark&show_icons=true" />
 
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinCNorgard&layout=compact&theme=github_dark" />
 </p>
