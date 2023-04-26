@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Davin-Norgard
+# Davin Norgard
+
+//insert about me text here
+
 # My Stats
 <p align="left">
    <img align="center" height="175" alt="Simon Erlic's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davincnorgard&theme=github_dark&show_icons=true&count_private=true&disable_animations=true&include_all_commits=true" />
