@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # Davin Norgard
 
-//insert about me text here
+Hello! 
+
+I have been developing code, creating fun projects, and purseuing computer science studies for the last 3 years. Im a creator at heart and have always enjoyed making my own projects. A handful of those projects are on here along with some assignments as well. 
 
 # My Stats
 <p align="left">
