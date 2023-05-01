@@ -19,12 +19,14 @@ Hello!
 
 I have been developing code, creating fun projects, and purseuing computer science studies for the last 3 years. Im a creator at heart and have always enjoyed making my own projects. A handful of those projects are on here along with some assignments as well. 
 
-# My Stats
+# My GitHub Stats
 <p align="left">
-   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=DavinCNorgard&theme=github_dark&show_icons=true" />
+   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=DavinCNorgard&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
 
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinCNorgard&layout=compact&theme=github_dark" />
 </p>
+
+# Tech stack⚡
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
