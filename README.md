@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Davin Norgard
 
-Hello! 
+I have been developing code, creating fun projects, and purseuing computer science studies for the last 3 years. Im a creator at heart and have always enjoyed making my own projects. A handful of those projects are on here along with some assignments as well.
 
-I have been developing code, creating fun projects, and purseuing computer science studies for the last 3 years. Im a creator at heart and have always enjoyed making my own projects. A handful of those projects are on here along with some assignments as well. 
+🔭 I’m currently working on a large RC car robot. Using an arduino with bluetooth module and various other components. 
 
 # My GitHub Stats
 <p align="left">
@@ -25,4 +25,6 @@ I have been developing code, creating fun projects, and purseuing computer scien
 
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinCNorgard&layout=compact&theme=github_dark" />
 </p>
+
+
 
